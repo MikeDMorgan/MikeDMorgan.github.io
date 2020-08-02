@@ -1,0 +1,101 @@
+---
+title: BoGoF
+author: 'Mike Morgan'
+categories: ['running']
+date: '2010-02-16'
+slug: round8-md
+description: 'Double whammy'
+featured: "wendover.jpg"
+featuredalt: 'A hill with a view'
+featurepath: "img"
+linktitle: 'BoGoF'
+---
+
+I think I'm getting too predictable. As I mentioned in my last blog post I've developed a rather 
+annoying habit of writing these posts several months after the event. This has the rather 
+irritating effect that I can only remember half of the details. Nevertheless, here goes...
+
+## Buy One Get One Free
+
+The clock is ticking.  It's December 13th and I've only run 3 county hills all year. I said to 
+myself at the beginning of the year that I would do _at least_ 5, preferably more. Not less. 
+Scouring my list of hills I noticed that the grid co-ordinates for two counties were 
+suspiciously close together. The two offending counties were Hertfordshire and Buckinghamshire. 
+Not only were there 2 neighboring counties with separate hills close to each other, but it was 
+feasible to drive there and back from Cambridge in a day, even with the ever present grind of 
+the A14 traffic works (note to self: this reference is going to seem _really_ old when I finally 
+finish this challenge).
+
+![bogof map route][1]
+
+We (Julie and I) planned the route to take in both high points, and try to avoid as many of 
+the roads that criss-cross the Hertfordshire/Buckinghamshire border. So we jumped in the car and 
+made our way down the M11 and around the M25 until we finally reached our destination at 
+Wendover woods. Conveniently the highest point in Buckinghamshire (and the Chilterns), was 
+located about 100 meters from the car park. Not to do ourselves out of a half decent ascent 
+however we turn away from the high point and ran down hill to get to the Hertfordshire high 
+point first. We trotted through the woods, encountering a surprising number of other trail 
+runners. I can understand why it's a popular spot. There are a couple of hills through the woods 
+and it's reasonably far from the busy roads, so numerous cross-country routes can be 
+concocted depending on your distance. If I had Wendover woods on my doorstep I'd definitely get 
+out running a lot more!
+
+![Elevation profile][2]
+
+(FYI: I think my GPS needs re-calibrating as I just realised that it's out by about 100 meters!)
+
+The air was surprisingly warm for a mid December morning. After about a mile we started 
+descending, keeping an eye out for the many roots and stones just peeking out the top of the 
+forest floor detritus, waiting to trip the unwary runner. Approaching the A41, basking in the 
+unusually warm winter sun, we turned a right angle to view our first hill in front of us. About 
+a mile across farm land was a wooded hill that formed a long ridge line spanning the county 
+borders. As the base of the hill began to steepen so the mud got stickier. And stickier. I was 
+determined that I should be able to run up this hill, bottom top, however the previous days rain 
+presented an unexpected challenge. You know those dreams where you're running but not making 
+any progress? That. That is exactly what it was like. Every other step slide backwards, it was 
+less trail running and more mud-skating, but uphill. Even running by the edges of the path 
+provided little relief as it was overgrown with brambles reaching out their spiking arms to 
+snag on our clothing. This wasn't exactly the challenge I was expecting! Nevertheless, after 
+nearly losing a shoe (Julie), we rounded the bend in the path to find...not the top of the hill. 
+Another 150 meters or so further on the hill plateaued out and we came to a stile next to a 
+wooden sign post and lay by. Checking the map it looked like the true high point was somewhere up the road, but no more than 50-100 meters. There wasn't an obvious hump in the road so I jogged 
+around for a few minutes with my GPS device trying to find the 244m altitude marker, but no 
+luck. We must have run over it 2 or 3 times at least, so we reasoned the obvious spot for our 
+"summit selfie" was the wooden sign post. Oh what a heady summit, thanks for nothing 
+Hertfordshire. 
+
+![Hertfordshire "summit"][3]
+
+We carried on our merry way jogging through the trees along the ridge line of the hill. Coming 
+to a cross-roads we hopped across the tarmac road, following another runner, and continued 
+oblivious to the mistake we'd just made. These runs are never complete without at least one 
+navigational error. What I had failed to realise was that 30 meters to our left at the road 
+was the actual path we wanted. Upon reaching the other road at the end of the path did our 
+mistake become clear. Thankfully it was pretty minor, and we just had to suffer the ignominy of 
+running an extra half-mile along the road. At the side of a house we turned up the path, and 
+immediately started ascending through the forest on our final approach to the top. This long 
+and winding path, shared with a mountain biker (who may have been lost?!), followed the contour 
+of the hill around onto a large open forest track. Signs of families and walkers started to 
+appear,  indicating we were edging closer to the car park and our second hill. We eventually 
+emerged into a clearing with the last push up a gravel track to add a final sting in the tail. 
+Our next job was to find the Buckinghamshire summit, which we hoped would at least be better 
+marked than the previous one. A sign post to the "Chilterns Viewpoint" raised our hopes that 
+we would indeed find our target. A few minutes of wandering around in the woodland and we 
+eventually stumbled across this heady "view"" </sarcasm>; at least the summit was marked. We 
+took some selfies (it's in the rules damnit), and walked back to the car.
+
+![Top of the Chilterns][4]
+
+All in all not a bad run, even if the hills were somewhat underwhelming.  There was no pub, but 
+there was at least a cafe to get a sausage roll and a cup of tea. I'd hit my target of 5 hills 
+for the year, just. There was also an alterior motive for running these 2 hills in December, 
+which I'll leave until next time.
+
+[1]: /img/hertfordshire_buckinghamshire_map.png
+[2]: /img/hertfordshire_buckinghamshire-profile.png
+[3]: /img/hertfordshire_selfie1.jpg
+[4]: /img/buckinghamshire_selfie.jpg
+
+
+
+
