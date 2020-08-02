@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>guest on Stupid Things</title>
+    <link>http://MikeDMorgan.github.io/categories/guest/</link>
+    <description>Recent content in guest on Stupid Things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://MikeDMorgan.github.io/categories/guest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rutland - Small but perfectly formed</title>
+      <link>http://MikeDMorgan.github.io/blog/round11-md/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/blog/round11-md/</guid>
+      <description>Where the heck is Rutland? I hear you ask. Well, according to some, it is the smallest county in England, it holds the largest manmade lake (so basically half of it is a lake) and it is home to the Nurdling World Championships (Nurdling = throwing pennies in a hole), the winners are crowned the ‘best tosser’, no joke.
+Based on these facts alone, this was shaping up to be a very exciting run.</description>
+    </item>
+    
+  </channel>
+</rss>

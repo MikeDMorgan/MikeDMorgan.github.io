@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unfit on Stupid Things</title>
+    <link>http://MikeDMorgan.github.io/categories/unfit/</link>
+    <description>Recent content in unfit on Stupid Things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://MikeDMorgan.github.io/categories/unfit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting saucy in Worcesterhire</title>
+      <link>http://MikeDMorgan.github.io/blog/round16/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/blog/round16/</guid>
+      <description>[Mike: I was too lazy to write this blog post - so I asked the lovely Julie if she wanted to do it, and she actually said yes!]
+If I was going to do any of these runs with Mike, it was going to be Worcestershire, the place of my birth, the homeland. The highest point in Worcestershire is Worcestershire Beacon in the Malvern Hills, which form a long ridgeway along the Worcestershire and Herefordshire border.</description>
+    </item>
+    
+  </channel>
+</rss>

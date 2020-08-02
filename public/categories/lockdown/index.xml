@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lockdown on Stupid Things</title>
+    <link>http://MikeDMorgan.github.io/categories/lockdown/</link>
+    <description>Recent content in lockdown on Stupid Things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://MikeDMorgan.github.io/categories/lockdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What a bunch of Kents</title>
+      <link>http://MikeDMorgan.github.io/blog/round15/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/blog/round15/</guid>
+      <description>As I write this, the world has gone through is in the throws of a global viral pandemic. How humanity comes out the otherside is a matter of pure speculation. The only thing that I know, is that if this doesn&amp;rsquo;t change how our society works, I&amp;rsquo;m not sure what will.
+This blog isn&amp;rsquo;t about SARS-CoV-2 (the virus responsible for the current state of affairs for future readers). It&amp;rsquo;s about running, hills and adventures on whatever scale you can manage them.</description>
+    </item>
+    
+  </channel>
+</rss>
