@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Stupid Things</title>
+    <link>http://MikeDMorgan.github.io/categories/</link>
+    <description>Recent content in Categories on Stupid Things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://MikeDMorgan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hills</title>
+      <link>http://MikeDMorgan.github.io/categories/hills/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/hills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>running</title>
+      <link>http://MikeDMorgan.github.io/categories/running/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/running/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unfit</title>
+      <link>http://MikeDMorgan.github.io/categories/unfit/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/unfit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lockdown</title>
+      <link>http://MikeDMorgan.github.io/categories/lockdown/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/lockdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandemic</title>
+      <link>http://MikeDMorgan.github.io/categories/pandemic/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/pandemic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mud</title>
+      <link>http://MikeDMorgan.github.io/categories/mud/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/mud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>volcano</title>
+      <link>http://MikeDMorgan.github.io/categories/volcano/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/volcano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tourists</title>
+      <link>http://MikeDMorgan.github.io/categories/tourists/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/tourists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shakespeare</title>
+      <link>http://MikeDMorgan.github.io/categories/shakespeare/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/shakespeare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guest</title>
+      <link>http://MikeDMorgan.github.io/categories/guest/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/guest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://MikeDMorgan.github.io/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://MikeDMorgan.github.io/categories/hugo/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>http://MikeDMorgan.github.io/categories/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>http://MikeDMorgan.github.io/categories/jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/jekyll/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

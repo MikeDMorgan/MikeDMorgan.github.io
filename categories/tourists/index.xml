@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tourists on Stupid Things</title>
+    <link>http://MikeDMorgan.github.io/categories/tourists/</link>
+    <description>Recent content in tourists on Stupid Things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://MikeDMorgan.github.io/categories/tourists/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fun London</title>
+      <link>http://MikeDMorgan.github.io/blog/round13/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/blog/round13/</guid>
+      <description>Once upon a time. That’s a terrible beginning for any story. But that’s the beginning of this story. A story of sights, sounds, and gingers. Let’s begin.
+A wise man said that only a ginger may call another ginger “ginger”. He also said “cheese”, a lot, and had a penchant for lunging. This wise man’s name is Tim. Tim is an entertainer from a strange country called Oz. We went to see Tim in his “show” before we decided to run around our nation’s capital.</description>
+    </item>
+    
+  </channel>
+</rss>
