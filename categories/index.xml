@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Stupid Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://MikeDMorgan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>running</title>
+      <link>http://MikeDMorgan.github.io/categories/running/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/running/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wales</title>
+      <link>http://MikeDMorgan.github.io/categories/wales/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://MikeDMorgan.github.io/categories/wales/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hills</title>
@@ -17,15 +35,6 @@
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>http://MikeDMorgan.github.io/categories/hills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>running</title>
-      <link>http://MikeDMorgan.github.io/categories/running/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://MikeDMorgan.github.io/categories/running/</guid>
       <description></description>
     </item>
     
