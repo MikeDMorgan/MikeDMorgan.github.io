@@ -3,27 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://MikeDMorgan.github.io/categories/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://MikeDMorgan.github.io/categories/hills/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://MikeDMorgan.github.io/post/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://MikeDMorgan.github.io/categories/running/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://MikeDMorgan.github.io/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://MikeDMorgan.github.io/categories/vikings/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://MikeDMorgan.github.io/post/round18/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://MikeDMorgan.github.io/blog/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://MikeDMorgan.github.io/categories/</loc>
-    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://MikeDMorgan.github.io/blog/round17/</loc>
-    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://MikeDMorgan.github.io/categories/running/</loc>
-    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://MikeDMorgan.github.io/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,11 +54,6 @@
   
   <url>
     <loc>http://MikeDMorgan.github.io/blog/round16/</loc>
-    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://MikeDMorgan.github.io/categories/hills/</loc>
     <lastmod>2020-07-19T00:00:00+00:00</lastmod>
   </url>
   
